@@ -13,7 +13,7 @@ spec:
   project: applications
   source:
     path: mq/environments/ci
-    repoURL: https://github.com/cloud-native-toolkit-demos/multi-tenancy-gitops-apps.git
+    repoURL: https://github.com/test-mq-cp4i/multi-tenancy-gitops-apps.git
     targetRevision: master
   syncPolicy:
     automated:
